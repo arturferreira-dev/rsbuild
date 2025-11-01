@@ -1,0 +1,28 @@
+{
+  "author": "@arturferreira-dev",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@rsbuild/core": "^1.6.0",
+    "@rsbuild/plugin-react": "^1.4.1",
+    "@rspack/cli": "^1.6.0",
+    "@rspack/core": "^1.6.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.3"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "name": "mf-rs",
+  "scripts": {
+    "build": "rsbuild build",
+    "dev": "rsbuild dev",
+    "preview": "rsbuild preview"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
