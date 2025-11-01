@@ -10,7 +10,7 @@
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
     "module": "nodenext",
-    "moduleDetection": "force",
+    "moduleDetection": "auto",
     // Stricter Typechecking Options
     "noUncheckedIndexedAccess": true,
     "noUncheckedSideEffectImports": true,
